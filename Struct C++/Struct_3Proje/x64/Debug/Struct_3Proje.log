@@ -1,0 +1,3 @@
+﻿  Struct_3Proje.cpp
+C:\Users\Acer\Desktop\Struct_3Proje\Struct_3Proje\Struct_3Proje.cpp(15,20): warning C4305: '=': 'double' iken 'float' olarak kesildi
+  Struct_3Proje.vcxproj -> C:\Users\Acer\Desktop\Struct_3Proje\x64\Debug\Struct_3Proje.exe
